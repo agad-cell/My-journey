@@ -11,14 +11,14 @@
 
 <body>
     <!-- <p>calculator</p> -->
-    <div class="calculator text-center">
-        <div class="display">
+    <div id="calculator text-center">
+        <div class="display text-center">
             <input class="show" type="text">
 
         </div>
         <div class="line-1">
-            <button class="btn p-4">⌫</button>
-            <button class="btn p-4">AC</button>
+            <button class="deleteBtn p-4" id="backSpace">⌫</button>
+            <button class="btn calc-btn p-4" id="clear">AC</button>
             <button class="btn p-4">％</button>
             <button class="btn p-4">➗</button>
         </div>
@@ -43,10 +43,10 @@
         </div>
 
         <div class="line-5">
-            <button class="btn p-4">＋/−</button>
+            <button class="btn p-4">➕➖</button>
             <button class="btn p-4">0</button>
             <button class="btn p-4">.</button>
-            <button class="btn p-4">🟰</button>
+            <button class="deleteBtn p-4" id="equal">🟰</button>
         </div>
     </div>
 

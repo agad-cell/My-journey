@@ -36,13 +36,13 @@ body {
 } */
 
 
-.btn {
+.btn, .deleteBtn {
      display: grid;
     grid-template-columns: repeat(4, 1fr);
       /* gap: 15px; */
 }
 
-.btn {
+.btn, .deleteBtn {
     color: rgb(247, 244, 240);
     background-color: cyan;
     /* text-align: center; */
@@ -71,7 +71,7 @@ body {
 .show {
     margin-top: 3px;
     margin-bottom: 15px;
-    width: 250px;
+    width: 280px;
     height: 80px;
 }
 input {
