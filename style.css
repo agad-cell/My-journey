@@ -103,6 +103,7 @@ input {
     font-size: 18px;
     font-weight: 400;
     color: rgb(242, 122, 142);  
+    text-decoration: none;
 }
 
 .startp, .presentp {
