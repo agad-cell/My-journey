@@ -6,6 +6,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: rgb(119, 180, 183);
+  
 }
 
 
@@ -62,5 +63,55 @@ input {
 }
 
 .home {
-    
+    background-color: rgb(247, 192, 211);
+     font-family: "DM Sans", sans-serif;
+     color: cyan;
+     margin-top: 94px;
+}
+
+.home::selection {
+    color: pink;
+    background-color: aliceblue;
+}
+
+
+.mainhead {
+    color: aqua;
+      font-family: "Space Grotesk", sans-serif;
+}
+
+.mainhead, .secondhead {
+    font-family: "Space Grotesk", sans-serif;      
+}
+
+.startBtn, .presentBtn {
+ font-family: Arial, sans-serif;
+ padding: 9px;
+ width: 300px;
+  background-color: cyan;
+  border: white 3px dotted;
+   box-shadow: 0 9px 10px rgba(6, 0, 0, 0.2);
+         transition: transform 0.3s ease;
+}
+
+.startBtn:hover,
+.presentBtn:hover {
+    transform: translateY(-8px) scale(1.18);
+}
+
+.startBtn a, .presentBtn a {
+    font-size: 18px;
+    font-weight: 400;
+    color: rgb(242, 122, 142);  
+}
+
+.startp, .presentp {
+    color: aliceblue;
+    font-size: larger;
+}
+
+.startp:hover, .presentp:hover {
+    color: palevioletred;
+    font-size: x-large;
+    font-weight: 400;
 }
