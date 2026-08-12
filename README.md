@@ -25,7 +25,7 @@ This project uses HTML and CSS, so no additional packages or installations are r
 # Option 1 — View the Live Website
 You can try the project directly in your browser without downloading anything.
 **Live Demo:**  
-[View My Journey] ()
+[view my journey](https://myjourney78900.netlify.app/)
 
 The is the easiest way to see the project and interact with it.
 
