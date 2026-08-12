@@ -44,5 +44,5 @@ If you want to look at the code:
 <img width="1840" height="427" alt="image" src="https://github.com/user-attachments/assets/3351e957-ef88-413b-9693-1cf85f862380" />
 <img width="1021" height="670" alt="image" src="https://github.com/user-attachments/assets/406e9400-f273-4a34-9a04-d07bd8acda18" />
 
-
+**note**: AI was used for translation and for help in deployment there was some issue in it it wasn't being deployed so took help from AI..
    
